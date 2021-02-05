@@ -33,6 +33,16 @@
             <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
             </td>
+             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
+                        src="https://i.imgur.com/DZgetVv.png" /></a>
+            </td>
+          <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
+                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
+          </td>
          </tr>
      </tbody>
 </table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-nahid&card_width=550&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
