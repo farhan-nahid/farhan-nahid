@@ -4,8 +4,14 @@
 
 <p align="center">
 
-  <a href="https://twitter.com/farhan_nahid01"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/farhan_nahid01?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/farhan-nahid"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/farhan-nahid?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://twitter.com/farhan_nahid01"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/farhan_nahid01?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/farhan-nahid"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/farhan-nahid?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-nahid" /> </p>
+  
+  
+  
+  
+ 
  
 </p>
 
@@ -32,6 +38,9 @@
             </td>
             <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            </td>
+          <td><a href="https://getbootstrap.com" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
             </td>
              <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
