@@ -6,9 +6,11 @@
 
   <a href="https://twitter.com/farhan_nahid01"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/farhan_nahid01?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/farhan-nahid"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/farhan-nahid?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/farhan.nahid.01) 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-nahid" /> </p>
   
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-nahid" /> </p>
+  
+  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/farhan.nahid.01) 
+ 
  
  
 </p>
