@@ -30,27 +30,34 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" width="26px"
+              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+            <td><a href="#"><img alt="HTML5" title="HTML5" width="26px"
+              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
             </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            <td><a href="#"><img alt="CSS3" title="CSS3" width="26px"
+               src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
             </td>
-          <td><a href="https://getbootstrap.com" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+          <td><a href="#" target="_blank"> <img  alt="bootstrap" title="bootstarp" width="26px"
+             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/></a>
+            </td> 
+          <td><a href="#" target="_blank"> <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
             </td>
-             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://i.imgur.com/DZgetVv.png" /></a>
+           <td><a href="#" target="_blank"> <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
             </td>
-          <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+           <td><a href="#" target="_blank"> <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></a>
+            </td> 
+            <td><a href="#"><img alt="GitHub" title="GitHub" width="26px"
+               src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
-                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
-          </td>
+            <td><a href="#"><img alt="Terminal" title="Terminal" width="26px"
+                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+            </td>
+             <td><a href="#"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
+            </td>
+          <td><a href="#"><img align="left" alt="Sass" width="26px"                    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>
+            </td>
          </tr>
      </tbody>
 </table>
