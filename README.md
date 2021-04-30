@@ -21,7 +21,7 @@
 * 🎓 I'm a Computer Science student💻
 * 🥅 2021 Goals: JavaScript Basic & React⚡
 * 😄 I want to learn everything 🤣
-* 🌐 You can see some of my projects on [my portfolio](https://farhan-nahid.github.io/first_assingment)
+* 🌐 You can see some of my projects on [my portfolio](https://farhan-nahid.web.app/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=farhan-nahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
