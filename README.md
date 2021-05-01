@@ -5,11 +5,13 @@
 <p align="center">
 
   <a href="https://twitter.com/farhan_nahid01"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/farhan_nahid01?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/farhan-nahid"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/farhan-nahid?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/farhan-nahid"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/farhan-nahid?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a> 
   
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-nahid" /> </p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-nahid" /> </p> 
   
-  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/farhan.nahid.01) 
+  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/farhan.nahid.01)
+  [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/farhan-nahid/)
+  
  
  
  
@@ -21,7 +23,8 @@
 * 🎓 I'm a Computer Science student💻
 * 🥅 2021 Goals: JavaScript Basic & React⚡
 * 😄 I want to learn everything 🤣
-* 🌐 You can see some of my projects on [my portfolio](https://farhan-nahid.web.app/)
+* 🌐 You can see some of my projects on [My Portfolio](https://farhan-nahid.web.app/)
+* 💻 You can see my resume on [My Resume](https://drive.google.com/file/d/1WHshisRsDRVHn6j4rjRn5jvl3f3H-lL7/view)
 
 <img src="https://github-readme-stats.vercel.app/api?username=farhan-nahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
