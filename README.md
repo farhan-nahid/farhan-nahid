@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <a href="https://twitter.com/farhan_nahid01"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/farhan_nahid01?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/dev_farhannahid"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/dev_farhannahid?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/farhan-nahid"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/farhan-nahid?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a> 
   
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-nahid" /> </p> 
