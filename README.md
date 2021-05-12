@@ -25,7 +25,7 @@
 * 🥅 2021 Goals: JavaScript Basic & React⚡
 * 😄 I want to learn everything 🤣
 * 🌐 You can see some of my projects on [My Portfolio](https://farhan-nahid.web.app/)
-* 💻 You can see my resume on [My Resume](https://drive.google.com/file/d/1WHshisRsDRVHn6j4rjRn5jvl3f3H-lL7/view)
+* 💻 You can see my resume on [My Resume](https://drive.google.com/file/d/1dnfwZ70W0fM16pUAoUORwj1IW1uszHoV/view)
 
 <img src="https://github-readme-stats.vercel.app/api?username=farhan-nahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
