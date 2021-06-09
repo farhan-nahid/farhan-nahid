@@ -54,4 +54,10 @@
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-nahid&card_width=550&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-nahid&theme=tokyonight" alt="farhan-nahid" />
+<img src="https://github-profile-trophy.vercel.app/?username=farhan-nahid&theme=tokyonight" alt="farhan-nahid" />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=farhan-nahid )
+![GitHub metrics](https://metrics.lecoq.io/farhan-nahid )
