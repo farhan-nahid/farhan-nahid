@@ -12,11 +12,8 @@
   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/dev.farhanNahid/)
   [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/farhan-nahid/)
   [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://farhan-nahid.medium.com/) 
-  
  
- 
- 
-</p>
+  </p>
 
 ### 📖 About me
 
@@ -56,6 +53,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-nahid&card_width=550&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img height="600" width="600" src="https://i.ibb.co/RcCBqSL/black-belt.jpg" alt="black-belt" border="0">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-nahid&theme=tokyonight" alt="farhan-nahid" />
 <img src="https://github-profile-trophy.vercel.app/?username=farhan-nahid&theme=tokyonight" alt="farhan-nahid" />
 
