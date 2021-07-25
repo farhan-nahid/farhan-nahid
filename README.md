@@ -54,25 +54,25 @@
 
 ### 🌟 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhan-nahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api/?username=farhan-nahid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-nahid&layout=compact&langs_count=10)](#)
+[![Farhan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-nahid&layout=compact&langs_count=10)](#)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?farhan-nahid&layout=compact)](#)
+[![Farhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?farhan-nahid&layout=compact)](#)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-nahid&theme=tokyonight" alt="farhan-nahid" />
+[![Farhan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=farhan-nahid&theme=radical)](#)
 
-<img src="https://github-profile-trophy.vercel.app/?username=farhan-nahid&theme=tokyonight" alt="farhan-nahid" />
+[![Farhan's profile trophy](https://github-profile-trophy.vercel.app/?username=farhan-nahid&theme=darkhub)](#)
 
 
 
 ### 🐱‍🏍💻 Something which is developed by me
 
-[![Moto Repair](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=moto-repair-client)](https://github.com/farhan-nahid/moto-repair-client)
-[![Tech Solution](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=tech-solution-client)](https://github.com/farhan-nahid/tech-solution-client)
+[![Moto Repair](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=moto-repair-client&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/moto-repair-client)
+[![Tech Solution](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=tech-solution-client&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/tech-solution-client)
 
-[![Farhan travel Agency](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=farhan-travel-agency)](https://github.com/farhan-nahid/farhan-travel-agency)
-[![App Lab](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=app-lab)](https://github.com/farhan-nahid/app-lab)
+[![Farhan travel Agency](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=farhan-travel-agency&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/farhan-travel-agency)
+[![App Lab](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=app-lab&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/app-lab)
 
 
 
