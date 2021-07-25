@@ -2,20 +2,19 @@
 
 <h3 align="center">Hey there, I'm Farhan Ahmed Nahid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-<p align="center">
-
-  <a href="https://twitter.com/dev_farhannahid"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/dev_farhannahid?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/farhan-nahid"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/farhan-nahid?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a> 
-  
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-nahid" /> </p> 
+  <p>
+    <a href="https://github.com/farhan-nahid">
+    <img alt="followers" title=" Github" src="https://img.shields.io/github/followers/farhan-nahid?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+    </a> <img src="https://komarev.com/ghpvc/?username=farhan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-nahid" />
+  </p>
   
   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/dev.farhanNahid/)
   [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/farhan-nahid/)
   [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://farhan-nahid.medium.com/) 
+  
+  
  
-  </p>
-
-### 📖 About me
+### 📝 Something about me
 
 * 🌱 I’m currently learning JavaScript🤔
 * 🎓 I'm a Computer Science student💻
@@ -24,9 +23,9 @@
 * 🌐 You can see some of my projects on [My Portfolio](https://farhan-nahid.web.app/)
 * 💻 You can see my resume on [My Resume](https://drive.google.com/file/d/1dnfwZ70W0fM16pUAoUORwj1IW1uszHoV/view)
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhan-nahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-## 👨‍💻 Languages and Tools:
+
+### 🛠 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
@@ -52,9 +51,35 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-nahid&card_width=550&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img height="600" width="600" src="https://i.ibb.co/RcCBqSL/black-belt.jpg" alt="black-belt" border="0">
+
+### 🌟 Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=farhan-nahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-nahid&layout=compact&langs_count=10)](https://github.com/farhan-nahid)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?farhan-nahid&layout=compact)](#)
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-nahid&theme=tokyonight" alt="farhan-nahid" />
+
 <img src="https://github-profile-trophy.vercel.app/?username=farhan-nahid&theme=tokyonight" alt="farhan-nahid" />
 
+
+
+### 🐱‍🏍💻 Something which is developed by me
+
+[![Moto Repair](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=moto-repair-client)](https://github.com/farhan-nahid/moto-repair-client)
+[![Tech Solution](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=tech-solution-client)](https://github.com/farhan-nahid/tech-solution-client)
+
+[![Farhan travel Agency](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=farhan-travel-agency)](https://github.com/farhan-nahid/farhan-travel-agency)
+[![App Lab](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=app-lab)](https://github.com/farhan-nahid/app-lab)
+
+
+
+### Acchivments 😎😜
+
+ <p>
+  <img height="450px" width="450px" src="https://i.ibb.co/RcCBqSL/black-belt.jpg" alt="black-belt" border="0">
+  <img height="450px" width="450px" src="https://i.ibb.co/PDcNRHZ/certificate.png" alt="certificate" border="0">
+ </p>
 
