@@ -56,7 +56,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=farhan-nahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-nahid&layout=compact&langs_count=10)](https://github.com/farhan-nahid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-nahid&layout=compact&langs_count=10)](#)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?farhan-nahid&layout=compact)](#)
 
@@ -79,7 +79,7 @@
 ### Acchivments 😎😜
 
  <p>
-  <img height="450px" width="450px" src="https://i.ibb.co/RcCBqSL/black-belt.jpg" alt="black-belt" border="0">
-  <img height="450px" width="450px" src="https://i.ibb.co/PDcNRHZ/certificate.png" alt="certificate" border="0">
+  <img height="550px" width="550px" src="https://i.ibb.co/RcCBqSL/black-belt.jpg" alt="black-belt" border="0">
+  <img height="550px" width="550px" src="https://i.ibb.co/PDcNRHZ/certificate.png" alt="certificate" border="0">
  </p>
 
