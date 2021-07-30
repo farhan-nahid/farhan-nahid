@@ -71,7 +71,7 @@
 [![Moto Repair](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=moto-repair-client&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/moto-repair-client)
 [![Tech Solution](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=tech-solution-client&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/tech-solution-client)
 
-[![Farhan travel Agency](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=farhan-travel-agency&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/farhan-travel-agency)
+[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=my-blog-client&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/my-blog-client)
 [![App Lab](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=app-lab&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/app-lab)
 
 
