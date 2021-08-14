@@ -76,12 +76,14 @@
 [![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=my-blog-client&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/my-blog-client)
 [![App Lab](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=app-lab&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/app-lab)
 
-
+<!--
 
 ### Acchivments 😎😜
 
  <p>
   <img height="550px" width="550px" src="https://i.ibb.co/RcCBqSL/black-belt.jpg" alt="black-belt" border="0">
   <img height="550px" width="550px" src="https://i.ibb.co/PDcNRHZ/certificate.png" alt="certificate" border="0">
- </p>
+ </p> 
+
+-->
 
