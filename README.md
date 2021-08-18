@@ -13,8 +13,10 @@
   [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/farhan-nahid/)
   [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://farhan-nahid.medium.com/) 
   
+  ###
   
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ 
  
 ### 📝 Something about me
 
@@ -26,6 +28,7 @@
 * 🌐 You can see some of my projects on [My Portfolio](https://farhan-nahid.web.app/)
 * 💻 You can see my resume on [My Resume](https://drive.google.com/file/d/1dnfwZ70W0fM16pUAoUORwj1IW1uszHoV/view)
 
+----
 
 
 ### 🛠 Languages and Tools:
@@ -55,7 +58,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
 
-
+---
 
 ### 🌟 Github Stats
 
@@ -69,7 +72,7 @@
 
 [![Farhan's profile trophy](https://github-profile-trophy.vercel.app/?username=farhan-nahid&theme=darkhub)](#)
 
-
+---
 
 ### 🐱‍🏍 Something Which is Developed by Me 💻
 
