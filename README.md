@@ -13,6 +13,7 @@
   [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://farhan-nahid.medium.com/) 
   
   
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
  
 ### 📝 Something about me
 
@@ -20,6 +21,7 @@
 * 🎓 I'm a Computer Science student💻
 * 🥅 2021 Goals: JavaScript Basic & React⚡
 * 😄 I want to learn everything 🤣
+* 🕹 Fun Fact: I love video games so much🎮
 * 🌐 You can see some of my projects on [My Portfolio](https://farhan-nahid.web.app/)
 * 💻 You can see my resume on [My Resume](https://drive.google.com/file/d/1dnfwZ70W0fM16pUAoUORwj1IW1uszHoV/view)
 
@@ -68,7 +70,7 @@
 
 
 
-### 🐱‍🏍💻 Something which is developed by me
+### 🐱‍🏍 Something Which is Developed by Me 💻
 
 [![Moto Repair](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=moto-repair-client&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/moto-repair-client)
 [![Tech Solution](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=tech-solution-client&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan-nahid/tech-solution-client)
@@ -81,8 +83,8 @@
 ### Acchivments 😎😜
 
  <p>
-  <img height="550px" width="550px" src="https://i.ibb.co/RcCBqSL/black-belt.jpg" alt="black-belt" border="0">
-  <img height="550px" width="550px" src="https://i.ibb.co/PDcNRHZ/certificate.png" alt="certificate" border="0">
+  <img height="550" width="550" src="https://i.ibb.co/RcCBqSL/black-belt.jpg" alt="black-belt" border="0">
+  <img height="550" width="550" src="https://i.ibb.co/PDcNRHZ/certificate.png" alt="certificate" border="0">
  </p> 
 
 -->
