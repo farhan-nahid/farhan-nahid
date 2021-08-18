@@ -1,7 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="80%" height="auto"/></p>
 
-<h3 align="center">Hey there, I'm Farhan Ahmed Nahid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-
+---
+> Hey there, I'm Farhan Ahmed Nahid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>.  Currently, I'm learning MERN STACK Development. Basically I'm focused on the front end. I always like to explore new things. In free time, I play video games & scrolling  Facebook.
+---
   <p>
     <a href="https://github.com/farhan-nahid">
     <img alt="followers" title=" Github" src="https://img.shields.io/github/followers/farhan-nahid?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
@@ -85,6 +86,7 @@
  <p>
   <img height="550" width="550" src="https://i.ibb.co/RcCBqSL/black-belt.jpg" alt="black-belt" border="0">
   <img height="550" width="550" src="https://i.ibb.co/PDcNRHZ/certificate.png" alt="certificate" border="0">
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
  </p> 
 
 -->
