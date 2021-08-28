@@ -2,7 +2,7 @@
 
 ---
 
-> Hey there, I'm Farhan Ahmed Nahid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>.  Currently, I'm learning MERN STACK Development. Basically I'm focused on the front end. I always like to explore new things. In free time, I play video games & scrolling  Facebook.
+> Hey there, I'm Farhan Ahmed Nahid <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>. Currently, I'm learning `MERN STACK` Development. Basically I'm focused on the `Front-End`. My most used line is `console.log()`. I always liked to use `Modern Technology` & explore new technology. In free time, I play video games & scrolling Facebook.
 
 ---
 
