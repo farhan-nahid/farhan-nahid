@@ -89,6 +89,7 @@
 ### Acchivments 😎😜
 
  <p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> 
   <img height="550" width="550" src="https://i.ibb.co/RcCBqSL/black-belt.jpg" alt="black-belt" border="0">
   <img height="550" width="550" src="https://i.ibb.co/PDcNRHZ/certificate.png" alt="certificate" border="0">
    <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
