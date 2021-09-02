@@ -105,7 +105,7 @@ const farhan = {
 [![Tech Solution](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=tech-solution-client&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/tech-solution-client)
 
 [![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=my-blog-client&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/my-blog-client)
-[![Covid19 Care](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=app-lab&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/covid19-care)
+[![Covid19 Care](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=covid19-care&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/covid19-care)
 
 
 
