@@ -96,7 +96,7 @@ const farhan = {
 
 ---
 
-### 🐱‍🏍 Something Which is Developed by Me 💻
+### 🚀 Something Which is Developed by Me 💻
 
 [![Moto Repair](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=moto-repair-client&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/moto-repair-client)
 [![Tech Solution](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=tech-solution-client&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/tech-solution-client)
