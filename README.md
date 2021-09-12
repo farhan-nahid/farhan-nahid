@@ -31,30 +31,32 @@
 
 ### 🛠 Languages and Tools:
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Firebase](https://img.shields.io/badge/-firebase-000000?style=flat&logo=firebase)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![Routre](https://img.shields.io/badge/-Router-000000?style=flat&logo=react-router)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Sass](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap%205-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-![Tailwind-Css](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss&logoColor=ffffff&labelColor=0081CB)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=563D7C)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0078D6)
+![Sass](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass)
+![Bootstrap5](https://img.shields.io/badge/-Bootstrap%205-000000?style=flat&logo=bootstrap)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=0078D6)
+![Tailwind-Css](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC)
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=565656)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=0078D6)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
 ![YARN](https://img.shields.io/badge/-yarn-000000?style=flat&logo=yarn)
-![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&logoColor=3831ca)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=0078D6)
 
 
 ---
@@ -66,17 +68,17 @@ const farhan = {
   name: "Farhan Ahmed Nahid",
   pronouns: "He" | "Him",
   languageSpoken: ["en_US", "bn_BD"],
-  code: ["Javascript", "HTML", "CSS"],
-  askMeAbout: ["web dev", "tech", "photography"],
+  code: ["Javascript", "HTML5", "CSS3", "TypeScript"],
+  askMeAbout: ["web dev", "tech"],
   technologies: {
         web: {
-         frontEnd: ["ReactJS", "Redux", "Bootstrap 5", "Tailwind CSS"],
-         backEnd: ["NodeJS", "ExpressJS", "mongoose"],
+         frontEnd: ["ReactJS", "Redux", "Bootstrap", "Tailwind CSS", "Material UI"],
+         backEnd: ["NodeJS", "ExpressJS", "Mongoose"],
       },
-        databases: ["mongoDB"],
-        misc: ["Firebase"]
+        databases: ["MongoDB", "Firestore"],
+        misc: ["Router", "Firebase"]
     },
-    currentFocus: "Front-End Web Development",
+    currentFocus: "Front-End Web Development"
 }
 ```
 
