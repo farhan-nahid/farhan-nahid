@@ -96,7 +96,8 @@ const farhan = {
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=farhan-nahid&show_icons=true&hide_border=true&theme=tokyonight" alt="Farhan Ahmed Nahid's stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-nahid&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Farhan Ahmed Nahid's stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-nahid&show_icons=true&locale=en&layout=compact&langs_count=20&theme=tokyonight&hide_border=true" alt="Farhan Ahmed Nahid's stats"/>
+	
 </p>
 
 ---
@@ -108,9 +109,6 @@ const farhan = {
 
 [![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=my-blog-client&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/my-blog-client)
 [![Covid19 Care](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=covid19-care&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/covid19-care)
-
-
-
 
 
 
