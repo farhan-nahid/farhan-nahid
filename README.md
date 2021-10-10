@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/farhan-nahid/farhan-nahid/main/farhan.png" >
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=farhan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-nahid" /><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm [Farhan Ahmed Nahid!](https://farhan-nahid.web.app/) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
