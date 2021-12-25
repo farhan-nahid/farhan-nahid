@@ -106,11 +106,10 @@ const farhan = {
 
 ### 🚀 Something Which is Developed by Me 💻
 
-[![Moto Repair](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=moto-repair-client&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/moto-repair-client)
-[![Tech Solution](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=tech-solution-client&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/tech-solution-client)
-
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=my-blog-client&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/my-blog-client)
-[![Covid19 Care](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=covid19-care&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/covid19-care)
+[![Kacha Bazar](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=kacha-bazar&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/kacha-bazar)
+[![Mobile Store](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=mobile-store&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/mobile-store)
+[![Dreamy Travel](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=dreamy-travel&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/dreamy-travel)
+[![Creative Academy](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=creative-academy&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/creative-academy)
 
 
 
