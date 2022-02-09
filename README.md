@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/farhan-nahid/farhan-nahid/main/farhan.gif" >
+<img src="https://raw.githubusercontent.com/farhan-nahid/farhan-nahid/main/banner.png" >
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=farhan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-nahid" /><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
