@@ -6,7 +6,7 @@
 
 ### Glad to see you here! :octocat:
 
-> I'm a **Front End Web Developer**. An enthusiast of technology always enjoys coding, likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. I have eight months of experience in Web Design and Development. I live in Dhaka, Bangladesh. I am currently studying at Chandpur Polytechnic Institute, in Computer Technology. In the tech community, I try to help people by sharing my knowledge. I love to read tech-related articles & play video games during my free time.
+> I'm a **Front End Web Developer**. An enthusiast of technology always enjoys coding, likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. I live in Dhaka, Bangladesh. I am currently studying at Northern University, Bangladesh in Computer Science and Engineering. In the tech community, I try to help people by sharing my knowledge. I love to read tech-related articles & play video games during my free time.
 
 ---
 
@@ -83,7 +83,7 @@ const farhan = {
         databases: ["MongoDB", "Firestore"],
         misc: ["Router", "Firebase"]
     },
-    currentFocus: "Front-End Web Development"
+    currentFocus: "Full Stack Web Development"
 }
 ```
 
