@@ -98,7 +98,7 @@ const farhan = {
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=farhan-nahid&show_icons=true&hide_border=true&theme=tokyonight" alt="Farhan Ahmed Nahid's stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-nahid&show_icons=true&locale=en&layout=compact&langs_count=20&theme=tokyonight&hide_border=true" alt="Farhan Ahmed Nahid's stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-nahid&langs_count=10&w_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Farhan Ahmed Nahid's stats"/>
 	
 </p>
 
