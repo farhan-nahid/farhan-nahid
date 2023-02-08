@@ -211,6 +211,22 @@ const farhan = {
 
 <!--
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-nahid&langs_count=10&w_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=volunteer-network-client,web-portfolio,personal-website,simple-portfolio,panda-commerce,hot-gadgets,penguin-fashion,1st-psd-to-html,blueeasy,Web-1st,javaScript-Problem,pioneer-bank,cart,Calculator,Advance-JavaScript,ES6,movie-bank,movie-bank,hard-rock,flight-booking,salary-app-master,fancy-slider,personal-website-,pin-matcher,first-react,Modern-JavaScript-Syntaxes,node-js-setup,ema-john-client,react-editor-setup,user-information,country-react,ema-john-simple,dream-twenty,super-hero,friends-react,react-country,social-buddy,movie-bank-react,english-premier-league,auth-practice,auth-recap,burj-al-arab-client,firebase-authentication" alt="Farhan Ahmed Nahid's stats"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="80%" height="auto"/></p>
 
 <code><a href="https://stackoverflow.com/users/10423770/nahid-ahmed"><img src="https://camo.githubusercontent.com/6c16966ca2fde7c772c57526ea15bbd09f3ba71c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d3232323232323f7374796c653d666c61742d737175617265266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f737461636b6f766572666c6f772e636f6d2f75736572732f373933383437312f72696661742d683f7461623d70726f66696c65" alt="Stack overflow Farhan Ahmed Nahid"></a></code>
