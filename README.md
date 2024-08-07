@@ -24,7 +24,7 @@
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1dnfwZ70W0fM16pUAoUORwj1IW1uszHoV/view).
 
 
-[Facebook](https://www.facebook.com/public/farhan.nahidahmed/) |  [Instagram](https://www.instagram.com/farhan__nahid/) |  [Linkedin](https://www.linkedin.com/in/farhan-nahid/) 
+[Facebook](https://www.facebook.com/farhan.nahidahmed/) |  [Instagram](https://www.instagram.com/farhan__nahid/) |  [Linkedin](https://www.linkedin.com/in/farhan-nahid/) 
 
 ---
 
