@@ -35,10 +35,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)
+![Shadcn](https://img.shields.io/badge/-Shadcn%20UI-000000?style=flat&logo=ShadcnUI)
 ![ReactQuery](https://img.shields.io/badge/-React%20Query-000000?style=flat&logo=ReactQuery)
 ![ReactTable](https://img.shields.io/badge/-React%20Table-000000?style=flat&logo=ReactTable)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=Node.js)
-![Express](https://img.shields.io/badge/-ExpressJs-000000?style=flat&logo=Express)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
 ![Hono](https://img.shields.io/badge/-Hono-000000?style=flat&logo=Hono)
 ![Zod](https://img.shields.io/badge/-Zod-000000?style=flat&logo=Zod)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
@@ -58,9 +59,8 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=JSON-web-tokens)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=TailwindCSS)
-![Shadcn](https://img.shields.io/badge/-ShadCn-000000?style=flat&logo=ShadcnUI)
-![radix-UI](https://img.shields.io/badge/-RedixUI-000000?style=flat&logo=radixUI)
-![Ant Design](https://img.shields.io/badge/-AntDesign-000000?style=flat&logo=AntDesign)
+![radix-UI](https://img.shields.io/badge/-Redix%20UI-000000?style=flat&logo=radixUI)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-000000?style=flat&logo=AntDesign)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=mui)
 ![Tailwind-Css](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss)
@@ -78,9 +78,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![React Routre](https://img.shields.io/badge/-Router-000000?style=flat&logo=react-router)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0078D6)
-![Lucide](https://img.shields.io/badge/-Lucide-000000?style=flat&logo=Lucide)
-![radixIcons](https://img.shields.io/badge/-radixIcons-000000?style=flat&logo=radixIcons)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=565656)
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
@@ -103,7 +100,7 @@ const farhan = {
   pronouns: "He/Him",
   languageSpoken: ["en_US", "bn_BD"],
   code: ["JavaScript", "TypeScript"],
-  askMeAbout: ["web dev", "tech", "open-source", "JavaScript frameworks", "cloud services"],
+  askMeAbout: ["web dev", "tech", "JavaScript frameworks", "cloud services"],
   technologies: {
     web: {
       frontEnd: ["ReactJS", "Next.js", "Tailwind CSS", "ShadcnUI"],
