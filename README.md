@@ -31,35 +31,66 @@
 
 ### 🛠 Languages and Tools:
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
-![Routre](https://img.shields.io/badge/-Router-000000?style=flat&logo=react-router)
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)
+![ReactQuery](https://img.shields.io/badge/-React%20Query-000000?style=flat&logo=ReactQuery)
+![ReactTable](https://img.shields.io/badge/-React%20Table-000000?style=flat&logo=ReactTable)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=Node.js)
+![Express](https://img.shields.io/badge/-ExpressJs-000000?style=flat&logo=Express)
+![Hono](https://img.shields.io/badge/-Hono-000000?style=flat&logo=Hono)
+![Zod](https://img.shields.io/badge/-Zod-000000?style=flat&logo=Zod)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0078D6)
-![Sass](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap%205-000000?style=flat&logo=bootstrap)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=0078D6)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![Mongoose](https://img.shields.io/badge/-Mongoose-000000?style=flat&logo=Mongoose)
+![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat&logo=Prisma)
+![Drizzle](https://img.shields.io/badge/-Drizzle-000000?style=flat&logo=Drizzle)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=RabbitMQ)
+![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat&logo=apachekafka)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
+![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=nginx)
+![Pm2](https://img.shields.io/badge/-Pm2-000000?style=flat&logo=Pm2)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=JSON-web-tokens)
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=TailwindCSS)
+![Shadcn](https://img.shields.io/badge/-ShadCn-000000?style=flat&logo=ShadcnUI)
+![radix-UI](https://img.shields.io/badge/-RedixUI-000000?style=flat&logo=radixUI)
+![Ant Design](https://img.shields.io/badge/-AntDesign-000000?style=flat&logo=AntDesign)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=mui)
 ![Tailwind-Css](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=565656)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=GitLab)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=3D0091)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=0078D6)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+![React Routre](https://img.shields.io/badge/-Router-000000?style=flat&logo=react-router)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0078D6)
+![Lucide](https://img.shields.io/badge/-Lucide-000000?style=flat&logo=Lucide)
+![radixIcons](https://img.shields.io/badge/-radixIcons-000000?style=flat&logo=radixIcons)
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=565656)
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
+![PNPM](https://img.shields.io/badge/-pnpm-000000?style=flat&logo=pnpm)
 ![YARN](https://img.shields.io/badge/-yarn-000000?style=flat&logo=yarn)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&logoColor=3831ca)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=0078D6)
+![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat&logo=Prettier)
+![Biome](https://img.shields.io/badge/-Biome-000000?style=flat&logo=Biome)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux)
+![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=MacOS)
 
 
 ---
@@ -69,20 +100,59 @@
 ```javascript
 const farhan = {
   name: "Farhan Ahmed Nahid",
-  pronouns: "He" | "Him",
+  pronouns: "He/Him",
   languageSpoken: ["en_US", "bn_BD"],
-  code: ["Javascript", "HTML5", "CSS3", "TypeScript"],
-  askMeAbout: ["web dev", "tech"],
+  code: ["JavaScript", "TypeScript"],
+  askMeAbout: ["web dev", "tech", "open-source", "JavaScript frameworks", "cloud services"],
   technologies: {
-        web: {
-         frontEnd: ["ReactJS", "Redux", "Bootstrap", "Tailwind CSS", "Material UI"],
-         backEnd: ["NodeJS", "ExpressJS", "Mongoose"],
-      },
-        databases: ["MongoDB", "Firestore"],
-        misc: ["Router", "Firebase"]
+    web: {
+      frontEnd: ["ReactJS", "Next.js", "Tailwind CSS", "ShadcnUI"],
+      backEnd: ["NodeJS", "ExpressJS", "Hono", "Mongoose", "Prisma", "Drizzle", "GraphQL"],
     },
-    currentFocus: "Full Stack Web Development"
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "SQLite", "Firestore"],
+    caching: ["Redis"],
+    cloud: ["Firebase", "DigitalOcean"],
+    messageQueue: ["RabbitMQ", "Kafka"],
+    testing: ["Vitest", "Supertest"],
+    deployment: ["Docker", "Kubernetes", "CI/CD", "Terraform"],
+    versionControl: ["Git", "GitHub", "GitLab", "Bitbucket"],
+    misc: ["Swagger", "JWT", "GraphQL Playground", "Swagger UI"],
+  },
+  currentFocus: "Full Stack Web Development",
+  skills: {
+    languages: ["JavaScript", "TypeScript"],
+    frameworks: ["ReactJS", "Redux", "NodeJS", "ExpressJS", "Hono", "Next.js", "TailwindCSS"],
+    tools: ["Docker", "Kubernetes", "Terraform", "Git", "Webpack", "Babel", "ESLint", "Prettier", "Vitest", "GitHub Actions"],
+    methodologies: ["Agile", "TDD", "CI/CD"]
+  },
+experience: [
+  {
+    role: "Junior Software Engineer",
+    company: "Evident BD LTD",
+    duration: "March 2022 - July 2023",
+    description: "Focused on frontend development using React and Next.js. Integrated both third-party and backend APIs to enhance functionality. Gained experience with server-side rendering (SSR) and static site generation (SSG), improving performance and SEO. Collaborated with backend teams and worked with Git in an Agile environment."
+  },
+  {
+    role: "Software Engineer",
+    company: "Evident BD LTD",
+    duration: "August 2023 - December 2024",
+    description: "Handled complex frontend tasks and project design. Worked with ReactJS, Redux, and Next.js to build scalable UIs. Optimized app performance, led frontend code improvements, and mentored junior developers."
+  },
+  {
+    role: "Full Stack Developer",
+    company: "Evident BD LTD",
+    duration: "January 2025 - Present",
+    description: "Building both frontend and backend features. Using ReactJS for dynamic UIs and Node.js/ExpressJS for backend API development. Integrated PostgreSQL and MongoDB databases, focused on performance, security, and CI/CD pipelines."
 }
+],
+  contact: {
+    email: "nahidfarhan@outlook.com",
+    website: "https://www.farhan-nahid.web.app",
+    linkedin: "https://www.linkedin.com/in/farhan-ahmed",
+    twitter: "https://twitter.com/farhan__nahid"
+  }
+};
+
 ```
 
 ---
@@ -208,6 +278,27 @@ const farhan = {
 
 
 <!--
+
+experience: [
+  {
+    role: "Junior Software Engineer",
+    company: "Evident BD LTD",
+    duration: "March 2022 - July 2023",
+    description: "As a Junior Software Engineer, I contributed to building and maintaining frontend applications using React. My main focus was on developing user interfaces, ensuring responsiveness, and integrating both third-party and backend APIs to enhance application functionality. I worked closely with senior developers to implement server-side rendering (SSR) and static site generation (SSG) using Next.js, improving app performance and SEO. I also gained exposure to version control systems like Git and participated in team collaboration through Agile methodologies."
+  },
+  {
+    role: "Software Engineer",
+    company: "Evident BD LTD",
+    duration: "August 2023 - December 2024",
+    description: "In my role as a Software Engineer, I took ownership of complex frontend tasks and contributed to the overall project design and architecture. I utilized ReactJS, Redux, and Next.js to build scalable and performant user interfaces, ensuring that applications were responsive across various devices. I was responsible for optimizing code, improving performance, and leading efforts to implement best practices for frontend development. Additionally, I worked on UI/UX improvements, integrating feedback from designers and end-users, and mentored junior developers by conducting code reviews and pair programming sessions."
+  },
+  {
+    role: "Full Stack Developer",
+    company: "Evident BD LTD",
+    duration: "January 2025 - Present",
+    description: "As a Full Stack Developer, I am responsible for both frontend and backend development. On the frontend, I continue to build dynamic user interfaces using Next.js, integrating them with backend APIs for seamless functionality. On the backend, I work with Node.js, ExpressJS and Hono to design RESTful APIs and integrate them with PostgreSQL and MongoDB databases for efficient data storage and retrieval. I also implement authentication and authorization features, manage deployment pipelines, and collaborate closely with DevOps for continuous integration and delivery (CI/CD). My role has expanded to include cloud-based solutions and microservices architecture, enabling scalable, maintainable, and high-performance applications."
+}
+],
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-nahid&langs_count=10&w_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=volunteer-network-client,web-portfolio,personal-website,simple-portfolio,panda-commerce,hot-gadgets,penguin-fashion,1st-psd-to-html,blueeasy,Web-1st,javaScript-Problem,pioneer-bank,cart,Calculator,Advance-JavaScript,ES6,movie-bank,movie-bank,hard-rock,flight-booking,salary-app-master,fancy-slider,personal-website-,pin-matcher,first-react,Modern-JavaScript-Syntaxes,node-js-setup,ema-john-client,react-editor-setup,user-information,country-react,ema-john-simple,dream-twenty,super-hero,friends-react,react-country,social-buddy,movie-bank-react,english-premier-league,auth-practice,auth-recap,burj-al-arab-client,firebase-authentication" alt="Farhan Ahmed Nahid's stats"/>
 
